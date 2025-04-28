@@ -1,2 +1,2 @@
-# SQL-Code-Portfolio-Project
+# SQL-Code
 All SQL code
